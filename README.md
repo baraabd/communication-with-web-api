@@ -30,10 +30,5 @@ Det jätte fikigt att instalera Dependencies för att webbplatsen funkar
  Teknologier som används på webbplatsen
 i min applikation använde jag weatherstackK.com, som är en gratis webbplats som ger väderdata med API, sedan började jag använda express, och förresten gick jag tillbaka till några föreläsningar om hur man navigerar på sidor med Express, och det var Detta är användbart för mig eftersom jag har hämtat min gamla information, jag använde också mabbox.com för att hämta latitud och longitud och skicka den sedan till ett inlägg som heter forecast.
  
- 
- Delar fungerar inte:
-Att hämta data från väderwebbplatsen fungerar bra, men den andra delen av webbplatsen fungerar inte ännu eftersom jag inte har tid att slutföra den.
-I allmänhet har den fått mycket erfarenhet av hur man använder API.
-
 
  
